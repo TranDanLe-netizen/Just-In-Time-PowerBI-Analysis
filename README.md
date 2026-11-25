@@ -64,8 +64,20 @@ The dashboard identifies areas for further investigation; it does not establish 
 
 ## Dashboard Screenshots
 
-Dashboard screenshots will be added to this repository.
+### Page 1 – Overall Business Performance
+![Overall Business Performance](TranDanLe_finalproject_1.png)
 
+### Page 2 – Sales & Product Performance
+![Sales & Product Performance](TranDanLe_finalproject_2.png)
+
+### Page 3 – Customer & Demand Analysis
+![Customer & Demand Analysis](TranDanLe_finalproject_3.png)
+
+### Page 4 – Inventory & Fulfillment Analysis
+![Inventory & Fulfillment Analysis](TranDanLe_finalproject_4.png)
+
+### Page 5 – Shipping & Dispatch Analysis
+![Shipping & Dispatch Analysis](TranDanLe_finalproject_5.png)
 ## Acknowledgements
 
 Special thanks to **Khanh Le and Minh Hieu** for sharing their Power BI knowledge, guidance, and perspectives on business-oriented data analysis.
