@@ -7,6 +7,12 @@ This project analyzes the sales and supply chain activities of **Just In Time**,
 The objective is to develop an interactive Power BI dashboard that helps Sales, Inventory, and Delivery Managers monitor performance, identify potential issues, and support data-driven decisions.
 
 The report covers data from **2015 to 2017** and consists of five dashboard pages.
+## Power BI Report
+
+[Download the Power BI report (.pbix)](TranDanLe_finalproject.pbix)
+
+Open the file in Power BI Desktop to explore
+the interactive report, data model, and measures.
 
 ## Tools & Skills
 
