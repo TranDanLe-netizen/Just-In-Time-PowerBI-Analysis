@@ -65,6 +65,9 @@ Important considerations included:
 - Flagging negative Shipping Time records as Invalid.
 - Retaining products with missing classification under an Unmapped group.
 - Treating the original Profit figures cautiously because of data inconsistencies.
+- Reported Late Rate reflects the recorded shipping
+  status, not confirmed late deliveries to customers,
+  because actual delivery dates are unavailable.
 
 The dashboard identifies areas for further investigation; it does not establish the underlying causes of operational issues.
 
